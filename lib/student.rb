@@ -1,4 +1,4 @@
 class Student<User 
-3KNOWLEDGE = []
+#KNOWLEDGE = []
 # end
 end
