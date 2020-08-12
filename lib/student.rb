@@ -1,4 +1,4 @@
 class Student<User 
-KNOWLEDGE = []
-  end
+3KNOWLEDGE = []
+# end
 end
