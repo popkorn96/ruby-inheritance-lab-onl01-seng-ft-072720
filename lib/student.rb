@@ -4,7 +4,7 @@ def initialize(knowledge)
   @knowledge = []
 
 def learn(string)
-  KNOWLEDGE << string
+  knowledge << string
 end
 def knowledge 
   KNOWLEDGE
