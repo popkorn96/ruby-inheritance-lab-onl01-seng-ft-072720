@@ -1,11 +1,11 @@
 class Student < User 
 attr_accessor :knowledge
-  @@knowledge = []
+  KNOWLEDGE = []
 
 def learn(string)
-  @@knowledge << string
+  KNOWLEDGE << string
 end
 def knowledge
-  @@knowledge
+  KNOWLEDGE
 end
 end
