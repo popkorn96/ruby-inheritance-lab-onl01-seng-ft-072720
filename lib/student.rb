@@ -7,6 +7,6 @@ def learn(string)
   knowledge << string
 end
 def knowledge 
-  KNOWLEDGE
+  @knowledge
 end
 end
