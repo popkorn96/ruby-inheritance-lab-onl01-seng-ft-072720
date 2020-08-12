@@ -1,6 +1,4 @@
 class Student<User 
-    def initialize(array)
-    @first_name = last_name
-    @last_name = last_name
+KNOWLEDGE = []
   end
 end
